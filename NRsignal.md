@@ -1,4 +1,8 @@
+**Waveform spectrum**
+![image](https://user-images.githubusercontent.com/87049112/200747432-3ad371d8-e302-42a4-9a9c-eff3f1e5ce96.png)
 
-![image](https://user-images.githubusercontent.com/87049112/200737053-d7202679-4ca4-4cc3-aea7-7607dda76b98.png)
-![image](https://user-images.githubusercontent.com/87049112/200737331-db194d42-22ba-41d1-ab68-81f0b66e7a85.png)
-![image](https://user-images.githubusercontent.com/87049112/200737385-d9c71514-1160-4653-825a-6f51c0ff8cf9.png)
+**Waveform magnitude**
+![image](https://user-images.githubusercontent.com/87049112/200747828-6722066e-8b50-4af8-85f8-9a8083b56aa3.png)
+
+**Waveform CCDF**
+![image](https://user-images.githubusercontent.com/87049112/200748012-21777f2f-b1bb-4bb1-96eb-4924db14216e.png)
