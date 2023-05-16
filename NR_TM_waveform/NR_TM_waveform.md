@@ -1,3 +1,5 @@
+![image](https://github.com/kaycelin/ic/assets/87049112/d0c451da-eb87-47b4-941e-927f11ef36b7)
+
 **Waveform spectrum**
 ![image](https://user-images.githubusercontent.com/87049112/200747432-3ad371d8-e302-42a4-9a9c-eff3f1e5ce96.png)
 
